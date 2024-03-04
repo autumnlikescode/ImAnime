@@ -46,5 +46,3 @@ while (!done) {
 
 5. **License:**
    - ImAnime is licensed under the MIT License. See the LICENSE file for more details.
-
-This documentation emphasizes how ImAnime can be used to replicate animations commonly seen in CSS-based websites, providing developers with the tools to create engaging user interfaces.
